@@ -1,6 +1,6 @@
 # Broken adoptions
 
-This R code shows several analytical steps used in USA TODAY's "Broken Adoptions" project. Compiled by: Aleszu Bajak, USA TODAY
+This R code shows several analytical steps used in USA TODAY's ["Broken Adoptions"](https://www.usatoday.com/in-depth/news/investigations/2022/05/19/usa-today-investigates-why-do-adoptions-fail/9721902002/) project. Compiled by: Aleszu Bajak, USA TODAY
 
 Datasets required:
  You will need to agree to terms and download AFCARS datasets for FY2008-FY2020 here:
